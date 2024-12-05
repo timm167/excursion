@@ -31,3 +31,7 @@ p {
   font-size: 21px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+footer {
+  text-align: end;
+}
